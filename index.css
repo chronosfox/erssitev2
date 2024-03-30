@@ -280,6 +280,7 @@
 }
 .home-details {
   color: rgb(39, 39, 45);
+  font-size: 20px;
 }
 .home-address {
   gap: var(--dl-space-space-oneandhalfunits);
@@ -305,7 +306,6 @@
 .home-details1 {
   color: rgb(39, 39, 45);
   font-size: 20px;
-  text-decoration: none;
 }
 .home-business-hours {
   gap: var(--dl-space-space-oneandhalfunits);
@@ -389,12 +389,6 @@
   }
   .home-details1 {
     color: rgb(39, 39, 45);
-    font-size: 20px;
-  }
-  .home-text81 {
-    font-size: 20px;
-  }
-  .home-text83 {
     font-size: 20px;
   }
   .home-details2 {
@@ -786,7 +780,9 @@
     justify-content: flex-start;
   }
   .home-details1 {
-    text-align: center;
+    color: rgb(39, 39, 45);
+    font-size: 20px;
+    text-align: left;
   }
   .home-business-hours {
     align-items: center;
@@ -984,26 +980,14 @@
   .home-details1 {
     color: rgb(39, 39, 45);
     font-size: 20px;
-    text-decoration: none;
-  }
-  .home-text81 {
-    font-size: 20px;
-    font-family: Courier New;
-  }
-  .home-text82 {
-    font-size: 20px;
-    font-family: Courier New;
-  }
-  .home-text83 {
-    font-size: 20px;
-    font-family: Courier New;
+    align-self: center;
+    text-align: left;
   }
   .home-business-hours {
     gap: var(--dl-space-space-unit);
   }
   .home-details2 {
     color: rgb(39, 39, 45);
-    font-size: 20px;
   }
   .home-text85 {
     font-family: Courier New;
@@ -1049,5 +1033,8 @@
   }
   .home-text97 {
     font-family: Courier New;
+  }
+  .home-text98 {
+    font-size: 24px;
   }
 }
