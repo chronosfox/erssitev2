@@ -275,7 +275,12 @@
   text-transform: none;
 }
 .home-link3 {
+  color: var(--dl-color-gray-white);
+  font-size: 20px;
+  border-color: var(--dl-color-gray-black);
+  border-width: 10px;
   text-decoration: none;
+  background-color: var(--dl-color-gray-black);
 }
 .home-details {
   color: rgb(39, 39, 45);
@@ -298,6 +303,13 @@
 }
 .home-link5 {
   font-family: """Courier New""";
+}
+.home-button {
+  color: var(--dl-color-gray-white);
+  font-size: 20px;
+  border-color: var(--dl-color-gray-black);
+  border-width: 10px;
+  background-color: var(--dl-color-gray-black);
 }
 .home-details1 {
   color: rgb(39, 39, 45);
