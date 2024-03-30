@@ -268,11 +268,7 @@
 .home-title {
   color: rgb(39, 39, 45);
   font-size: 24px;
-  font-style: normal;
-  font-family: "Courier New";
   font-weight: 700;
-  line-height: 1.15;
-  text-transform: none;
 }
 .home-link3 {
   color: var(--dl-color-gray-white);
@@ -284,8 +280,6 @@
 }
 .home-details {
   color: rgb(39, 39, 45);
-  font-size: 20px;
-  text-decoration: none;
 }
 .home-address {
   gap: var(--dl-space-space-oneandhalfunits);
@@ -298,17 +292,14 @@
 .home-title1 {
   color: rgb(39, 39, 45);
   font-size: 24px;
-  font-style: normal;
   font-weight: 700;
 }
-.home-link5 {
-  font-family: """Courier New""";
-}
-.home-button {
+.home-link4 {
   color: var(--dl-color-gray-white);
   font-size: 20px;
   border-color: var(--dl-color-gray-black);
   border-width: 10px;
+  text-decoration: none;
   background-color: var(--dl-color-gray-black);
 }
 .home-details1 {
@@ -327,7 +318,6 @@
 .home-title2 {
   color: rgb(39, 39, 45);
   font-size: 24px;
-  font-family: "Courier New";
   font-weight: 700;
 }
 .home-details2 {
@@ -389,6 +379,7 @@
   }
   .home-details {
     color: rgb(39, 39, 45);
+    font-size: 20px;
   }
   .home-title1 {
     color: rgb(39, 39, 45);
@@ -396,28 +387,19 @@
     font-family: Courier New;
     font-weight: 700;
   }
-  .home-link5 {
-    font-family: Courier New;
-  }
   .home-details1 {
     color: rgb(39, 39, 45);
-    font-size: 20px;
-  }
-  .home-text79 {
     font-size: 20px;
   }
   .home-text81 {
     font-size: 20px;
   }
-  .home-details2 {
-    color: rgb(39, 39, 45);
-    font-size: 24px;
-  }
   .home-text83 {
     font-size: 20px;
   }
-  .home-text84 {
-    font-size: 20px;
+  .home-details2 {
+    color: rgb(39, 39, 45);
+    font-size: 24px;
   }
   .home-text85 {
     font-size: 20px;
@@ -453,6 +435,12 @@
     font-size: 20px;
   }
   .home-text96 {
+    font-size: 20px;
+  }
+  .home-text97 {
+    font-size: 20px;
+  }
+  .home-text98 {
     font-size: 24px;
   }
 }
@@ -808,13 +796,6 @@
     font-size: 20px;
     text-align: left;
   }
-  .home-text83 {
-    font-family: Courier New;
-  }
-  .home-text84 {
-    color: #27272d;
-    font-family: Courier New;
-  }
   .home-text85 {
     font-family: Courier New;
   }
@@ -854,6 +835,13 @@
     font-family: Courier New;
   }
   .home-text96 {
+    color: #27272d;
+    font-family: Courier New;
+  }
+  .home-text97 {
+    font-family: Courier New;
+  }
+  .home-text98 {
     font-size: 24px;
   }
 }
@@ -986,10 +974,7 @@
     color: rgb(39, 39, 45);
     font-size: 24px;
   }
-  .home-link5 {
-    font-family: Courier New;
-  }
-  .home-button {
+  .home-link4 {
     color: rgb(255, 255, 255);
     font-size: 20px;
     border-color: var(--dl-color-gray-black);
@@ -1001,15 +986,15 @@
     font-size: 20px;
     text-decoration: none;
   }
-  .home-text79 {
-    font-size: 20px;
-    font-family: Courier New;
-  }
-  .home-text80 {
-    font-size: 20px;
-    font-family: Courier New;
-  }
   .home-text81 {
+    font-size: 20px;
+    font-family: Courier New;
+  }
+  .home-text82 {
+    font-size: 20px;
+    font-family: Courier New;
+  }
+  .home-text83 {
     font-size: 20px;
     font-family: Courier New;
   }
@@ -1019,13 +1004,6 @@
   .home-details2 {
     color: rgb(39, 39, 45);
     font-size: 20px;
-  }
-  .home-text83 {
-    font-family: Courier New;
-  }
-  .home-text84 {
-    color: #27272d;
-    font-family: Courier New;
   }
   .home-text85 {
     font-family: Courier New;
@@ -1063,6 +1041,13 @@
     font-family: Courier New;
   }
   .home-text95 {
+    font-family: Courier New;
+  }
+  .home-text96 {
+    color: #27272d;
+    font-family: Courier New;
+  }
+  .home-text97 {
     font-family: Courier New;
   }
 }
